@@ -1,0 +1,11 @@
+.graph {
+    height:50px;
+    background-color:red;
+    margin-top:5px;
+    display:inline-block
+}
+.paraDiv{
+    display:inline-block;
+    background-color:aliceblue;
+    padding-left:5px 
+}
